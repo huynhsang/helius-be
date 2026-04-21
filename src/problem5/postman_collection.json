@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "fcefcaa5-9466-4fb1-bc6a-343ba0960313",
+		"name": "Challenge_BE",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "646524"
+	},
+	"item": [
+		{
+			"name": "GET resources",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/resources?name=halo",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"resources"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "halo"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

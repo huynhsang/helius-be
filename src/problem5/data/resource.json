@@ -1,0 +1,16 @@
+[
+  {
+    "id": "45aebdbc-a00e-4b5f-b2be-9cd3899a4809",
+    "name": "halo updated",
+    "description": "test updated",
+    "createdAt": "2026-04-21T10:10:50.111Z",
+    "updatedAt": "2026-04-21T13:08:52.453Z"
+  },
+  {
+    "id": "1d82c45f-a095-4ac5-8840-2c867a22bd05",
+    "name": "test",
+    "description": "test",
+    "createdAt": "2026-04-21T10:16:12.727Z",
+    "updatedAt": "2026-04-21T10:16:12.727Z"
+  }
+]
